@@ -1,0 +1,36 @@
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Django stuff
+*.log
+db.sqlite3
+local_settings.py
+
+# IDEs / editors
+.vscode/
+.idea/
+
+# Environment variables
+.env# Python
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Django stuff
+*.log
+db.sqlite3
+local_settings.py
+
+# IDEs / editors
+.vscode/
+.idea/
+
+# Environment variables
+.env
